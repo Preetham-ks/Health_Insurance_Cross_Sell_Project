@@ -16,7 +16,7 @@ Using Python for data preprocessing and Power BI for visualization, the dashboar
 - **Dataset:** Health Insurance Cross-Sell Prediction (Kaggle)
 
 ## 📈 Dashboard Preview
-![Dashboard Overview](Screenshot 2025-11-04 223040.png)
+![System Diagram](Screenshot 2025-11-04 223040.png)
 
 ## 🗂️ Files Included
 - `Health_Insurance_Cross_Sell_Dashboard.pbix` – Power BI dashboard file  
@@ -35,5 +35,3 @@ Helps insurance companies focus on:
 ### 🚀 Author
 **Preetham Ks**  
 Data & Business Analyst | Power BI | SQL | Python 
-Data & Business Analyst | Power BI | SQL | Python  
-[LinkedIn](your-linkedin-url) | [Portfolio](your-portfolio-link)
