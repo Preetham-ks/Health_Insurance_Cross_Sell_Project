@@ -1,4 +1,4 @@
-# 🩺 Health Insurance Cross-Sell Analysis (Python + Power BI)
+# Health Insurance Cross-Sell Analysis (Python + Power BI)
 
 ## 📊 Project Overview
 This project analyzes health insurance customer data to identify patterns in cross-sell behavior.  
@@ -16,7 +16,7 @@ Using Python for data preprocessing and Power BI for visualization, the dashboar
 - **Dataset:** Health Insurance Cross-Sell Prediction (Kaggle)
 
 ## 📈 Dashboard Preview
-![System Diagram](Screenshot 2025-11-04 223040.png)
+![System Diagram](Dashboard_Screenshot.png)
 
 ## 🗂️ Files Included
 - `Health_Insurance_Cross_Sell_Dashboard.pbix` – Power BI dashboard file  
